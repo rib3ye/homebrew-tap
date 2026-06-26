@@ -19,4 +19,5 @@ brew install yt-audio
 
 | Formula | Description |
 | ------- | ----------- |
+| [`focus`](Formula/focus.rb) | Block distracting sites at the DNS level via a managed `/etc/hosts` blocklist. ([source](https://github.com/rib3ye/focus)) |
 | [`yt-audio`](Formula/yt-audio.rb) | Download YouTube audio in the highest quality the macOS Music app plays. ([source](https://github.com/rib3ye/yt-audio)) |
